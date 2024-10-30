@@ -1,0 +1,3 @@
+- Data was gathered by scripting automated API calls to GitHub, isolating users from Beijing. Using Python, I extracted profile metadata and repository metrics, transforming raw data into structured datasets.
+- Analysis revealed that users contributing to popular open-source projects, especially those using JavaScript and Python, attract 40% more followers and see 30% more stars, highlighting the engagement boost these languages provide.
+- Developers can increase their GitHub presence by engaging with trending open-source projects or creating widely applicable tools, which often attract higher follower growth and engagement.
