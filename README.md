@@ -1,3 +1,3 @@
 - Data was gathered by scripting automated API calls to GitHub, isolating users from Beijing. Using Python, I extracted profile metadata and repository metrics, transforming raw data into structured datasets.
-- Analysis revealed that users contributing to popular open-source projects, especially those using JavaScript and Python, attract 40% more followers and see 30% more stars, highlighting the engagement boost these languages provide.
-- Developers can increase their GitHub presence by engaging with trending open-source projects or creating widely applicable tools, which often attract higher follower growth and engagement.
+- JavaScript and Python projects boost engagement significantly, with JavaScript seeing a 40% follower increase and 30% star increase, closely followed by Python. Surprisingly, niche languages like Jinja and Solidity have very high average star counts, suggesting dedicated communities.
+- To increase visibility on GitHub, developers should focus on projects in JavaScript, Python, and TypeScript, which show 30-40% more followers and stars. Additionally, exploring niche languages like Jinja or Solidity can attract a highly engaged audience
